@@ -55,6 +55,16 @@ Build datasets for training security models or understand common software vulner
 
 * **مخرجات جاهزة للبحث:** تصدير النتائج بصيغة CSV لسهولة تحليلها إحصائياً في ملفات الوورد والإكسل.
 
+# How to use the Projet ?
+
+1 - install the project in your pc 
+2 - put the project on vs code 
+3 - activate the envirment of project : venv/Scripts/activate
+4 - install the libarary :
+. beautifulsoup4
+. requests
+. pandas
+
 ---
 
 
@@ -63,3 +73,4 @@ Build datasets for training security models or understand common software vulner
 **Ali Jalal**
 Information Technology Student
 Cybersecurity Researcher
+
