@@ -57,23 +57,6 @@ Build datasets for training security models or understand common software vulner
 
 ---
 
-# 🛠️ How to Use / كيفية الاستخدام
-
-## 1️⃣ Install Requirements / تثبيت المتطلبات
-
-```bash
-pip install transformers pandas beautifulsoup4 requests tqdm torch
-```
-
-## 2️⃣ Run the Pipeline / تشغيل الأداة
-
-* Run `scraper.py` to collect raw data.
-  قم بتشغيل سكريبت السحب لجمع البيانات الخام.
-
-* Run `classifier_summarizer.py` to process with AI.
-  قم بتشغيل سكريبت التصنيف والتحليل باستخدام الذكاء الاصطناعي.
-
----
 
 # 👨‍💻 Author
 
